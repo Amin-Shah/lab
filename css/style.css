@@ -51,23 +51,19 @@ body{
     width: 70%;
     padding: 10px;
     margin: 0 auto;
-    margin-bottom: 1em;
     text-align: center;
 }
 
 
 /*For Tours Content*/
-.unOrder-1{
-    list-style-type: none;
-    border-top: 2px double #000000;
-    border-bottom: 1px double #000000;
-    padding: 5px;
-    text-align: center;
-    word-spacing: 30px;
+.container-2{
+    margin: 0 auto;
+    width: 540px;
+    margin-top: 8px;
 }
-.unOrder-1>li{
-    display: inline;
-    border-top: 2px;
+.contentArea-2{
+    margin: 0 auto;
+    width: 100%;
 }
 .paragraph-2{
     text-align: center;
@@ -80,17 +76,14 @@ body{
 
 
 /*For Services Content*/
-.unOrder-2{
-    list-style-type: none;
-    border-top: 2px double #000000;
-    border-bottom: 1px double #000000;
-    padding: 5px;
-    text-align: center;
-    word-spacing: 30px;
+.container-1{
+    margin: 0 auto;
+    width: 540px;
+    margin-top: 8px;
 }
-.unOrder-2>li{
-    display: inline;
-    border-top: 2px;
+.contentArea-1{
+    margin: 0 auto;
+    width: 100%;
 }
 .paragraph-3{
     text-align: center;
@@ -103,17 +96,14 @@ body{
 
 
 /*For ContactUs Content*/
-.unOrder-3{
-    list-style-type: none;
-    border-top: 2px double #000000;
-    border-bottom: 1px double #000000;
-    padding: 5px;
-    text-align: center;
-    word-spacing: 30px;
+.container-3{
+    margin: 0 auto;
+    width: 540px;
+    margin-top: 8px;
 }
-.unOrder-3>li{
-    display: inline;
-    border-top: 2px;
+.contentArea-3{
+    margin: 0 auto;
+    width: 100%;
 }
 .paragraph-4{
     text-align: center;
@@ -160,7 +150,7 @@ form{
     margin-top: 1em;
 }
 .textArea{
-    width: 99%;
+    width: 98.6%;
     border: 1px solid silver;
     margin-top: 1em;
     outline: none;
@@ -187,17 +177,14 @@ form{
 
 
 /*For About Us Content*/
-.unOrder-4{
-    list-style-type: none;
-    border-top: 2px double #000000;
-    border-bottom: 1px double #000000;
-    padding: 5px;
-    text-align: center;
-    word-spacing: 30px;
+.container-4{
+    margin: 0 auto;
+    width: 540px;
+    margin-top: 8px;
 }
-.unOrder-4>li{
-    display: inline;
-    border-top: 2px;
+.contentArea-4{
+    margin: 0 auto;
+    width: 100%;
 }
 .paragraph-5{
     text-align: center;
@@ -205,4 +192,16 @@ form{
 .image-4{
     width: 540px;
     height: 250px;
+}
+
+
+/*For Index Content*/
+.container-5{
+    margin: 0 auto;
+    width: 540px;
+    margin-top: 8px;
+}
+.contentArea-5{
+    margin: 0 auto;
+    width: 100%;
 }
